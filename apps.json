@@ -219,6 +219,15 @@
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheencar-updates/main/ShaheenCar.apk",
       "notes": "shaheencar-updates/version.json, live-verified 2026-10-26",
       "icon": "icons/com.brio.carlauncher.png"
+    },
+    {
+      "name": "عائلتي (My Family)",
+      "package": "com.brio.aelati",
+      "versionName": "1.8",
+      "versionCode": 9,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/aelati-updates/main/MyFamily_v1.8.apk",
+      "notes": "aelati-updates/version.json, live-verified 2026-10-26: version 1.8, code 9, APK MD5 2f31f25cc83360f585c3dbe5d44d598c",
+      "icon": "icons/com.brio.aelati.png"
     }
   ]
 }
