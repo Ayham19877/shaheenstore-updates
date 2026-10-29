@@ -7,10 +7,10 @@
     {
       "name": "سند (Sanad)",
       "package": "com.brio.zakirti",
-      "versionName": "1.1.118",
-      "versionCode": 20261129,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sanad-updates/main/Sanad_v1.1.118.apk",
-      "notes": "sanad-updates/version.json, live-verified 2026-10-28: version 1.1.118, code 20261129, APK size 11624831, MD5 2948649a15c8fc756246617c4f79a20f",
+      "versionName": "1.1.119",
+      "versionCode": 20261130,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sanad-updates/main/Sanad_v1.1.119.apk",
+      "notes": "sanad-updates/version.json, live-verified 2026-10-28: version 1.1.119, code 20261130, APK size 11616639, MD5 913ee103180b15ab586fe5a8f419a53b",
       "icon": "icons/com.brio.zakirti.png"
     },
     {
