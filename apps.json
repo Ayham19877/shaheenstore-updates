@@ -1,7 +1,7 @@
 {
   "store": "Shaheen Store",
   "version": "1.10",
-  "updated": "2026-10-26",
+  "updated": "2026-11-05",
   "note": "End-user apps only, per user order 2026-10-26. v1.1: real launcher icons + ShaheenRide renamed (single app for customer and driver). v1.2: added Hokm Al Adala + Smart Home Display Lite. v1.3: added Shaheen Files, Shield Home, DeliverThat Turbo, Share Box, Source Maker, US Immigration Forms, Work Log. v1.4: added Shaheen Link + Shaheen Radio. v1.6: added Shaheen Car (carlauncher).",
   "apps": [
     {
@@ -16,10 +16,10 @@
     {
       "name": "BuildVerse",
       "package": "com.brio.buildverse",
-      "versionName": "1.104",
-      "versionCode": 106,
-      "apkUrl": "https://github.com/Ayham19877/buildverse-updates/releases/download/v1.104/BuildVerse_v1.104.apk",
-      "notes": "buildverse/version.json",
+      "versionName": "1.113",
+      "versionCode": 115,
+      "apkUrl": "https://github.com/Ayham19877/buildverse-updates/releases/download/v1.113/BuildVerse_v1.113.apk",
+      "notes": "buildverse-updates/version.json, live-verified 2026-11-05: version 1.113, code 115, APK size 37056785, MD5 09220ba7ffcc0c071db6f5d3833eb263",
       "icon": "icons/com.brio.buildverse.png"
     },
     {
@@ -34,28 +34,28 @@
     {
       "name": "Baby365",
       "package": "com.brio.baby365",
-      "versionName": "4.7",
-      "versionCode": 20261030,
+      "versionName": "4.47",
+      "versionCode": 20261067,
       "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-      "notes": "baby365/version.json",
+      "notes": "baby365-updates/version.json, live-verified 2026-11-05: version 4.47, code 20261067, APK size 34967484, MD5 7c4f10b36d92a488fd374f2b7088313b",
       "icon": "icons/com.brio.baby365.png"
     },
     {
       "name": "حارس العائلة (Family Guardian)",
       "package": "com.brio.familytracker",
-      "versionName": "17.32",
-      "versionCode": 20261547,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v17.32.apk",
-      "notes": "familytracker/publish_v17.32/version.json + manifest match",
+      "versionName": "17.33",
+      "versionCode": 20261549,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v17.33.apk",
+      "notes": "familyguardian-updates/version.json, live-verified 2026-11-05: version 17.33, code 20261549, APK size 2602834, MD5 45f996789493f21bb5ff615b817a2ac2",
       "icon": "icons/com.brio.familytracker.png"
     },
     {
       "name": "شاهين رايد",
       "package": "com.brio.shahinride",
-      "versionName": "24.71",
-      "versionCode": 20261299,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheenride-updates/main/ShaheenRide_Rider_v24.71.apk",
-      "notes": "goals/goal-5/version.json + GOAL.md package — للزبون والسائق، النسخة نفسها للسائق والزبون",
+      "versionName": "24.74",
+      "versionCode": 20261302,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheenride-updates/main/ShaheenRide_Rider_v24.74.apk",
+      "notes": "shaheenride-updates/version.json, live-verified 2026-11-05: version 24.74, code 20261302, APK size 10010478, MD5 88626e2120826b6ef9994f1546b5ba30",
       "icon": "icons/com.brio.shahinride.png"
     },
     {
@@ -106,10 +106,10 @@
     {
       "name": "Latest Deals (أحدث العروض)",
       "package": "com.brio.deals",
-      "versionName": "2.13",
-      "versionCode": 15,
+      "versionName": "2.17",
+      "versionCode": 19,
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deals-updates/main/LatestDeals.apk",
-      "notes": "dealsapp manifest + deals-updates URL found in dealsapp source (no version.json file in workspace)",
+      "notes": "deals-updates/version.json, live-verified 2026-11-05: version 2.17, code 19, APK size 313525, MD5 c4da270bd07f3630ac0c33aa51192dbe",
       "icon": "icons/com.brio.deals.png"
     },
     {
@@ -151,10 +151,10 @@
     {
       "name": "DeliverThat Turbo",
       "package": "com.brio.deliverthatturbo",
-      "versionName": "1.17",
-      "versionCode": 18,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deliverthatturbo-updates/main/DeliverThat_turbo_v1.17.apk",
-      "notes": "deliverthatturbo-updates/version.json, live-verified 2026-10-26",
+      "versionName": "1.34",
+      "versionCode": 35,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deliverthatturbo-updates/main/DeliverThat_turbo_v1.34.apk",
+      "notes": "deliverthatturbo-updates/version.json, live-verified 2026-11-05: version 1.34, code 35, APK size 66173, MD5 f9df6ddb2675db15aee6b20829b75b06",
       "icon": "icons/com.brio.deliverthatturbo.png"
     },
     {
@@ -187,10 +187,10 @@
     {
       "name": "Work Log",
       "package": "com.brio.worklog",
-      "versionName": "2.2.16",
-      "versionCode": 20261048,
+      "versionName": "2.2.19",
+      "versionCode": 20261051,
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/worklog-updates/main/WorkLog.apk",
-      "notes": "worklog-updates/version.json, live-verified 2026-10-26 (unversioned WorkLog.apk is the official apkUrl)",
+      "notes": "worklog-updates/version.json, live-verified 2026-11-05: version 2.2.19, code 20261051, APK size 144915, MD5 2ad63e1120a272e3343715b06ca45162",
       "icon": "icons/com.brio.worklog.png"
     },
     {
@@ -228,6 +228,15 @@
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/aelati-updates/main/MyFamily_v1.8.apk",
       "notes": "aelati-updates/version.json, live-verified 2026-10-26: version 1.8, code 9, APK MD5 2f31f25cc83360f585c3dbe5d44d598c",
       "icon": "icons/com.brio.aelati.png"
+    },
+    {
+      "name": "درع شاهين (Shaheen Shield)",
+      "package": "com.shaheen.shield",
+      "versionName": "1.16",
+      "versionCode": 17,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheen-shield-updates/main/ShaheenShield_v1.16.apk",
+      "notes": "shaheen-shield-updates/version.json, live-verified 2026-11-05: version 1.16, code 17, APK size 6932045, MD5 7913cb2f29c272552e50fb9ba34d3788",
+      "icon": "icons/com.shaheen.shield.png"
     }
   ]
 }
