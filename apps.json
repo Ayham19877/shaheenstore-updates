@@ -133,10 +133,10 @@
     {
       "name": "Shaheen Files",
       "package": "com.brio.shaheenfiles",
-      "versionName": "3.29",
-      "versionCode": 20261089,
-      "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.29.apk",
-      "notes": "shaheenfiles-updates/version.json, live-verified 2026-10-26",
+      "versionName": "3.30",
+      "versionCode": 20261090,
+      "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.30.apk",
+      "notes": "shaheenfiles-updates/version.json, live-verified 2026-11-10: version 3.30, code 20261090, APK size 2042283, MD5 089161fdd5b20b852d20355dcbde9c34",
       "icon": "icons/com.brio.shaheenfiles.png"
     },
     {
