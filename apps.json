@@ -1,7 +1,7 @@
 {
   "store": "Shaheen Store",
   "version": "1.10",
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "note": "End-user apps only, per user order 2026-10-26. v1.1: real launcher icons + ShaheenRide renamed (single app for customer and driver). v1.2: added Hokm Al Adala + Smart Home Display Lite. v1.3: added Shaheen Files, Shield Home, DeliverThat Turbo, Share Box, Source Maker, US Immigration Forms, Work Log. v1.4: added Shaheen Link + Shaheen Radio. v1.6: added Shaheen Car (carlauncher).",
   "apps": [
     {
@@ -237,6 +237,15 @@
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheen-shield-updates/main/ShaheenShield_v1.16.apk",
       "notes": "shaheen-shield-updates/version.json, live-verified 2026-11-05: version 1.16, code 17, APK size 6932045, MD5 7913cb2f29c272552e50fb9ba34d3788",
       "icon": "icons/com.shaheen.shield.png"
+    },
+    {
+      "name": "مشغل شاهين (Shaheen Player)",
+      "package": "com.brio.shaheenplayer",
+      "versionName": "2.2",
+      "versionCode": 20261006,
+      "apkUrl": "https://github.com/Ayham19877/shaheenplayer-updates/raw/main/ShaheenPlayer_v2.2.apk",
+      "notes": "shaheenplayer-updates/version.json, live-verified 2026-11-09: version 2.2, code 20261006, APK size 537053, MD5 c008b09efe357ea24f7a63bf69800d30",
+      "icon": "icons/com.brio.shaheenplayer.png"
     }
   ]
 }
