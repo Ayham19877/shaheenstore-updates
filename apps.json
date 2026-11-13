@@ -1,7 +1,7 @@
 {
   "store": "Shaheen Store",
   "version": "1.10",
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "note": "End-user apps only, per user order 2026-10-26. v1.1: real launcher icons + ShaheenRide renamed (single app for customer and driver). v1.2: added Hokm Al Adala + Smart Home Display Lite. v1.3: added Shaheen Files, Shield Home, DeliverThat Turbo, Share Box, Source Maker, US Immigration Forms, Work Log. v1.4: added Shaheen Link + Shaheen Radio. v1.6: added Shaheen Car (carlauncher).",
   "apps": [
     {
@@ -133,10 +133,10 @@
     {
       "name": "Shaheen Files",
       "package": "com.brio.shaheenfiles",
-      "versionName": "3.30",
-      "versionCode": 20261090,
-      "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.30.apk",
-      "notes": "shaheenfiles-updates/version.json, live-verified 2026-11-10: version 3.30, code 20261090, APK size 2042283, MD5 089161fdd5b20b852d20355dcbde9c34",
+      "versionName": "3.29",
+      "versionCode": 20261089,
+      "apkUrl": "https://github.com/Ayham19877/shaheenfiles-updates/raw/main/ShaheenFiles_v3.29.apk",
+      "notes": "shaheenfiles-updates/version.json, live-verified 2026-10-26",
       "icon": "icons/com.brio.shaheenfiles.png"
     },
     {
@@ -246,6 +246,15 @@
       "apkUrl": "https://github.com/Ayham19877/shaheenplayer-updates/raw/main/ShaheenPlayer_v2.2.apk",
       "notes": "shaheenplayer-updates/version.json, live-verified 2026-11-09: version 2.2, code 20261006, APK size 537053, MD5 c008b09efe357ea24f7a63bf69800d30",
       "icon": "icons/com.brio.shaheenplayer.png"
+    },
+    {
+      "name": "Shaheen VPN",
+      "package": "com.shaheen.vpn",
+      "versionName": "1.3",
+      "versionCode": 4,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheenvpn-updates/main/ShaheenVPN_v1.3.apk",
+      "notes": "shaheenvpn-updates/version.json, live-verified 2026-11-12: version 1.3, code 4, APK size 5868672, MD5 937e40603ccc437a2e592ca34eeb19fe",
+      "icon": "icons/com.shaheen.vpn.png"
     }
   ]
 }
