@@ -250,10 +250,10 @@
     {
       "name": "Shaheen VPN",
       "package": "com.shaheen.vpn",
-      "versionName": "1.4",
-      "versionCode": 5,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheenvpn-updates/main/ShaheenVPN_v1.4.apk",
-      "notes": "shaheenvpn-updates/version.json, live-verified 2026-11-12: version 1.4, code 5, APK size 5868672, MD5 ad00451c871133158c88670cc6601f01",
+      "versionName": "1.5",
+      "versionCode": 6,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheenvpn-updates/main/ShaheenVPN_v1.5.apk",
+      "notes": "shaheenvpn-updates/version.json, live-verified 2026-11-12: version 1.5, code 6, APK size 5868672, MD5 176c9de1b540390c487be6c14aa2ce68",
       "icon": "icons/com.shaheen.vpn.png"
     }
   ]
