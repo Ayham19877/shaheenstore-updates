@@ -142,10 +142,10 @@
     {
       "name": "Shield Home",
       "package": "com.brio.cloudfilter",
-      "versionName": "1.0",
-      "versionCode": 20261020,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/cloudfilter-updates/main/Shield_Home_v1.0.apk",
-      "notes": "cloudfilter-updates/version.json, live-verified 2026-10-26",
+      "versionName": "1.1",
+      "versionCode": 20261021,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/cloudfilter-updates/main/Shield_Home_v1.1.apk",
+      "notes": "cloudfilter-updates/version.json, live-verified 2026-11-13: version 1.1, code 20261021, APK size 263789, MD5 5756582a145634a98c0d1dcf432bbf64",
       "icon": "icons/com.brio.cloudfilter.png"
     },
     {
