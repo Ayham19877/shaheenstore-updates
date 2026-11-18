@@ -106,10 +106,10 @@
     {
       "name": "Latest Deals (أحدث العروض)",
       "package": "com.brio.deals",
-      "versionName": "2.17",
-      "versionCode": 19,
+      "versionName": "2.19",
+      "versionCode": 21,
       "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deals-updates/main/LatestDeals.apk",
-      "notes": "deals-updates/version.json, live-verified 2026-11-05: version 2.17, code 19, APK size 313525, MD5 c4da270bd07f3630ac0c33aa51192dbe",
+      "notes": "deals-updates/version.json, live-verified 2026-11-18: version 2.19, code 21, APK size 313525, MD5 b143ff269f6a713e90e34074233a0dc6",
       "icon": "icons/com.brio.deals.png"
     },
     {
