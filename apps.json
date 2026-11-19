@@ -43,10 +43,10 @@
     {
       "name": "حارس العائلة (Family Guardian)",
       "package": "com.brio.familytracker",
-      "versionName": "17.34",
-      "versionCode": 20261551,
-      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v17.34.apk",
-      "notes": "familyguardian-updates/version.json, live-verified 2026-11-07: version 17.34, code 20261551, APK size 2602834, MD5 e388b7240174a8309e9146b94f1bee20",
+      "versionName": "17.35",
+      "versionCode": 20261553,
+      "apkUrl": "https://raw.githubusercontent.com/Ayham19877/familyguardian-updates/main/FamilyGuardian-v17.35.apk",
+      "notes": "familyguardian-updates/version.json, live-verified 2026-11-19: version 17.35, code 20261553, APK size 2602834, MD5 2d1491d53aeaafb468f58e220421c0d5",
       "icon": "icons/com.brio.familytracker.png"
     },
     {
